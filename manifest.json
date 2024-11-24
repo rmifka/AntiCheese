@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "AntiCheese",
+  "name": "AntiCheese",
+  "author": "Renschi",
+  "version": "1.0.0",
+  "description": "",
+  "gameVersion": "1.38.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.0"
+  }
+}

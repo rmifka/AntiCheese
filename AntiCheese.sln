@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiCheese", "AntiCheese.csproj", "{A25E548F-EE6E-415F-B18C-6AE8E0D5E072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25E548F-EE6E-415F-B18C-6AE8E0D5E072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25E548F-EE6E-415F-B18C-6AE8E0D5E072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25E548F-EE6E-415F-B18C-6AE8E0D5E072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25E548F-EE6E-415F-B18C-6AE8E0D5E072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BFD0C3B-5F46-41BC-82DF-F5947F6D385D}
+	EndGlobalSection
+EndGlobal
